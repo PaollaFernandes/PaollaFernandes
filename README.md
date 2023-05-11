@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/PaollaFernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?PaollaFernandes={{PaollaFernandes}}&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?PaollaFernandes={{PaollaFernandes}}&layout=compact&langs_count=7&theme=blank"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaollaFernandes&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaollaFernandes&layout=compact&langs_count=7&theme=blank"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
   <a href="https://www.linkedin.com//in/paolla-fernandes-dos-santos-b3aa6b275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/{{PaollaFernandes}}/{{PaollaFernandes}}/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PaollaFernandes/PaollaFernandes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
